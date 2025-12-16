@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @nduonofitdavid
-- 👀 I’m interested in ML and low level computing
-- 🌱 I’m currently learning math
-- 💞️ I’m looking to collaborate on python related projects
-- 📫 How to reach me nduonofitdavidfortune@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: blah
+Hi, I'am David Nduonofit, you can reach out to me at nduonofitdavidfortune@gmail.com
 
 <!---
 nduonofitdavid/nduonofitdavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
