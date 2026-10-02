@@ -1,4 +1,4 @@
-Hi, I'am David Nduonofit
+Hi, I'm David Nduonofit
 I am a junior software engineer with interests in systems programming, networking, and computer vision. I mostly write code in Python, and C, but I also have experience with writing code in JavaScript, and a working knowledge of web development.
 
 Technologies:
