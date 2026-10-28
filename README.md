@@ -1,7 +1,7 @@
 
 ## Hey there! 👋
 
-I'm **somename**, a software engineer interested in **systems programming, networking, and computer vision**. I mostly write code in **Python**, but also have experience with C, Rust, JavaScript and web development. I enjoy building things and understanding how they work under the hood.
+I'm Nduonofit, a software engineer interested in **systems programming, networking, and computer vision**. I mostly write code in **Python**, but also have experience with C, Rust, JavaScript and web development. I enjoy building things and understanding how they work under the hood.
 
 <img src="https://skillicons.dev/icons?i=python,c,rust,js,mysql,bash,linux,fastapi,react,pytorch,sklearn&theme=dark" alt="Tech Stack" />
 
