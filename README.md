@@ -1,20 +1,63 @@
-Hi, I'm David Nduonofit
-I am a junior software engineer with interests in systems programming, networking, and computer vision. I mostly write code in Python, and C, but I also have experience with writing code in JavaScript, and a working knowledge of web development.
 
-Programming languages I am familiar with:
-1. Python
-2. C
-3. SQL
-4. JavaScript
+<div align="center">
 
-Frameworks:
-1. FastAPI
-2. React JS
-3. Pytorch
-4. Scikit-learn
-5. Pandas
-6. Numpy
-<!---
-nduonofitdavid/nduonofitdavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Nduonofit.
+
+**Software Engineer**
+
+`systems programming` · `networking` · `computer vision`
+
+<br>
+
+I enjoy exploring how things work under the hood,
+from low-level systems to intelligent software.
+
+I mostly write **Python** and **C**, with experience
+in JavaScript, Rust, and web development.
+
+<br>
+
+---
+
+### languages
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,c,js,rust&theme=dark" alt="Python, C, JavaScript, Rust" />
+
+<br>
+
+<img src="https://img.shields.io/badge/SQL-234C43?style=flat-square&logo=postgresql&logoColor=DCE9E2" alt="SQL" />
+
+<br>
+
+### frameworks & libraries
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=fastapi,react,pytorch,sklearn&theme=dark" alt="FastAPI, React, PyTorch, Scikit-learn" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Pandas-234C43?style=flat-square&logo=pandas&logoColor=DCE9E2" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-234C43?style=flat-square&logo=numpy&logoColor=DCE9E2" alt="NumPy" />
+
+<br>
+
+---
+
+### areas of interest
+
+`01` &nbsp; Systems & low-level programming
+
+`02` &nbsp; Computer networking
+
+`03` &nbsp; Computer vision & deep learning
+
+<br>
+
+---
+
+<sub>always learning, always building.</sub>
+
+</div>
